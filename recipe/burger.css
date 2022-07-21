@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.burger {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.arrange {
+    text-align: center;
+    overflow-x: scroll;
+}
+
+img {
+    width: 1280px;
+    height: 375px;
+    background-size: cover;
+}
+
+.button {
+    color: black;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border: 0px solid white;
+    font-weight: bold;
+    position: sticky;
+    top: 0%;
+    text-align: center;
+    position: absolute;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    width: 130px;
+    cursor: pointer;
+    font-style: italic;
+    position: absolute;
+    border: 2px solid whitesmoke;
+}
+
+.none {
+    color: black;
+}
+
+.text {
+    color: black;
+    text-align: center;
+    background-color: orange;
+    font-weight: 900;
+    border-radius: 0%;
+    border-right: 250px solid black;
+    border-left: 250px solid black;
+}
+
+.invisible {
+    color: orange;
+}
+
+.second {
+    text-align: right;
+}
+
+.space {
+    color: black;
+}
+
+.text_two {
+    color: black;
+    text-align: center;
+    background-color: orange;
+    font-weight: 900;
+    border-radius: 0%;
+    border-right: 250px solid black;
+    border-left: 250px solid black;
+}
+
+.textarea {
+    text-align: center;
+    background-color: orange;
+    font-weight: 900;
+    border: 5px solid white;
+}
+
+.size {
+    text-align: center;
+}
+
+.submit {
+    color: black;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    font-weight: 900;
+}
+
+.submit:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.middle {
+    text-align: center;
+}
+
